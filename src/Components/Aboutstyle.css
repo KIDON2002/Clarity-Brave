@@ -1,0 +1,40 @@
+.h1 {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-align: left;
+}
+.p1 {
+  text-align: justify;
+  text-justify: inter-word;
+}
+.h2 {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-align: left;
+}
+.h3 {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-align: left;
+}
+.h4 {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-align: left;
+}
+.h5 {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-align: left;
+}
+.p2 {
+  text-align: justify;
+  text-justify: inter-word;
+}
+.p3 {
+  text-align: justify;
+  text-justify: inter-word;
+}
+.p4 {
+  text-align: justify;
+  text-justify: inter-word;
+}
+.p5 {
+  text-align: justify;
+  text-justify: inter-word;
+}
