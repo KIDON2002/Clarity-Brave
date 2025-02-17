@@ -66,6 +66,7 @@ function About1() {
         that post session feedback is given and future treatment plans are
         discussed.{" "}
       </p>
+        
       <Footer1 />
     </>
   );
